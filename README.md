@@ -27,7 +27,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [Springer](#)
 * [IEEE Xplore](#)
 * [ACM Digital Library](#)
-* [Google Scholar](#)
+* [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
 
 
 
