@@ -1,4 +1,22 @@
-# TODO
+# +----------------------------+
+# |        E X C L U D E       |
+# +----------------------------+
 
 # VSCode
 .vscode/
+
+# temporary (mircrosoft) working files
+[~$]*
+[~.$]*
+
+
+
+# +----------------------------+
+# |        I N C L U D E       |
+# +----------------------------+
+
+# keep .gitkeep files
+!/**/.gitkeep
+
+# keep .gitignore files
+!/**/.gitignore
