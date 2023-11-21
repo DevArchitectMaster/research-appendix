@@ -16,7 +16,9 @@ Repository with all research-relevant attachments from scientific publications f
   > * [Zotero](https://www.zotero.org/fboeck)
   > * [ResearchGate](https://www.researchgate.net/profile/Felix-Boeck)
 
-* [Coburg University of Applied Sciences](https://www.hs-coburg.de/boeck)
+
+  > * [Scientific Research Information System: BayFIS](https://forschung.hs-coburg.de/de/person/2073)
+  > * [Coburg University of Applied Sciences](https://www.hs-coburg.de/boeck)
 
 
 ### current index lists of the publishers
