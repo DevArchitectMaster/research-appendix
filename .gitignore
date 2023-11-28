@@ -5,7 +5,7 @@
 # VSCode
 .vscode/
 
-# temporary (mircrosoft) working files
+# temporary (microsoft) working files
 [~$]*
 [~.$]*
 
