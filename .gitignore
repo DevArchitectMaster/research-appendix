@@ -2,12 +2,15 @@
 # |        E X C L U D E       |
 # +----------------------------+
 
-# VSCode
-.vscode/
-
 # temporary (microsoft) working files
 [~$]*
 [~.$]*
+
+# exclude todo-files
+.todo
+
+# VSCode
+.vscode/
 
 
 
