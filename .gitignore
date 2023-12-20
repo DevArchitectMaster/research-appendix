@@ -3,11 +3,12 @@
 # +----------------------------+
 
 # temporary (microsoft) working files
-[~$]*
-[~.$]*
+/**/[~$]*
+/**/[~.$]*
 
 # exclude todo-files
-.todo
+#/**/.todo
+#/**/.todos
 
 # VSCode
 .vscode/
@@ -17,6 +18,9 @@
 # +----------------------------+
 # |        I N C L U D E       |
 # +----------------------------+
+
+# keep .github folder
+!/.github/
 
 # keep .gitkeep files
 !/**/.gitkeep
