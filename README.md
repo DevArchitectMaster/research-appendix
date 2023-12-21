@@ -21,7 +21,7 @@ Repository with all research-relevant attachments from scientific publications f
   > * [Coburg University of Applied Sciences](https://www.hs-coburg.de/boeck)
 
 
-### current index lists of the publishers
+### current index lists of the publishers 📚
 
 * [dblp](https://dblp.uni-trier.de/pid/259/3517.html)
 * [Crossref](https://search.crossref.org/?q=Felix%20B%C3%B6ck)
@@ -33,6 +33,6 @@ Repository with all research-relevant attachments from scientific publications f
 
 
 
-### content of this project
+### content of this project 📑
 
 > [Here you find the overview of all contents of this research repository](content.md)
