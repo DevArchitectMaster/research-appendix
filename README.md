@@ -1,4 +1,4 @@
-# Research Appendix
+# Research Appendix 👨‍🎓
 Repository with all research-relevant attachments from scientific publications for reproducibility and transparency.  
 *Source: [https://github.com/DevArchitectMaster/research-appendix](https://github.com/DevArchitectMaster/research-appendix)*
 
