@@ -30,6 +30,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [IEEE Xplore](#)
 * [ACM Digital Library](#)
 * [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Felix-B%C3%B6ck/117777351)
 
 
 
