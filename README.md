@@ -28,7 +28,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [Crossref](https://search.crossref.org/?q=Felix%20B%C3%B6ck)
 * [Elsevier Scopus](https://www.scopus.com/authid/detail.uri?authorId=57215432483)
 * [Springer](#)
-* [IEEE Xplore](#)
+* [IEEE Xplore](https://ieeexplore.ieee.org/author/740584501191394)
 * [ACM Digital Library](#)
 * [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felix-B%C3%B6ck/117777351)
