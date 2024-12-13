@@ -24,6 +24,7 @@ Repository with all research-relevant attachments from scientific publications f
 ### current index lists of the publishers 📚
 
 * [dblp](https://dblp.uni-trier.de/pid/259/3517.html)
+* [Clarivate: Web of Science](https://www.webofscience.com/wos/author/record/50474624)
 * [Crossref](https://search.crossref.org/?q=Felix%20B%C3%B6ck)
 * [Elsevier Scopus](https://www.scopus.com/authid/detail.uri?authorId=57215432483)
 * [Springer](#)
