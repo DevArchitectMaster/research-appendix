@@ -6,4 +6,4 @@
 
 ### 2024
 
-* \[`Conference`\] [CSEDU 2024](https://www.scitepress.org/PublicationsDetail.aspx?ID=IPravOxGpTY=) - [Learner Models: a Systematic Literature Research in Norms and Standards](publications/2024/Standards%20Review%20for%20Learner%20Models/review.md)
+* \[`Conference`\] [CSEDU 2024](#) - [Learner Models: a Systematic Literature Research in Norms and Standards](publications/2024/Standards%20Review%20for%20Learner%20Models/review.md)
