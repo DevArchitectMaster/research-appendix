@@ -16,7 +16,11 @@ Repository with all research-relevant attachments from scientific publications f
   > * [Zotero](https://www.zotero.org/fboeck)
   > * [ResearchGate](https://www.researchgate.net/profile/Felix-Boeck)
 
+  **Otto Friedrich University of Bamberg**
+  > * [Research Information System: FIS University of Bamberg](https://fis.uni-bamberg.de/handle/uniba/109476)
+  > * [Research Data Repository: FD-Repo](https://fd-repo.uni-bamberg.de/search?q=metadata.creators.person_or_org.name%3A%22B%C3%B6ck%2C%20Felix%22&l=list&p=1&s=10&sort=bestmatch)
 
+  **Coburg University of Applied Sciences**
   > * [Scientific Research Information System: BayFIS](https://forschung.hs-coburg.de/de/person/2073)
   > * [Coburg University of Applied Sciences](https://www.hs-coburg.de/boeck)
 
