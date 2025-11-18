@@ -31,7 +31,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [Clarivate: Web of Science](https://www.webofscience.com/wos/author/record/LWI-8655-2024)
 * [Crossref](https://search.crossref.org/?q=Felix%20B%C3%B6ck)
 * [Elsevier Scopus](https://www.scopus.com/authid/detail.uri?authorId=57215432483)
-* [Springer](#)
+* [Springer](https://link.springer.com/search?sortBy=newestFirst&dc.creator=Felix%20B%C3%B6ck)
 * [IEEE Xplore](https://ieeexplore.ieee.org/author/740584501191394)
 * [ACM Digital Library](#)
 * [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
