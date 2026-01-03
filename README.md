@@ -33,7 +33,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [Elsevier Scopus](https://www.scopus.com/authid/detail.uri?authorId=57215432483)
 * [Springer](https://link.springer.com/researchers/85280103SN)
 * [IEEE Xplore](https://ieeexplore.ieee.org/author/740584501191394)
-* [ACM Digital Library](#)
+* [ACM Digital Library](https://dl.acm.org/profile/99661761941)
 * [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felix-B%C3%B6ck/117777351)
 * [OpenReview](https://openreview.net/profile?id=~Felix_B%C3%B6ck1)
