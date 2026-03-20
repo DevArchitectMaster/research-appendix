@@ -15,6 +15,7 @@ Repository with all research-relevant attachments from scientific publications f
   > * [ORC**ID**](https://orcid.org/0000-0001-7382-8333)
   > * [Zotero](https://www.zotero.org/fboeck)
   > * [ResearchGate](https://www.researchgate.net/profile/Felix-Boeck)
+  > * [SciProfiles](https://sciprofiles.com/profile/boeck)
 
   **Otto Friedrich University of Bamberg**
   > * [Research Information System: FIS University of Bamberg](https://fis.uni-bamberg.de/handle/uniba/109476)
