@@ -38,6 +38,7 @@ Repository with all research-relevant attachments from scientific publications f
 * [Google Scholar](https://scholar.google.de/citations?user=YbAldy0AAAAJ)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felix-B%C3%B6ck/117777351)
 * [OpenReview](https://openreview.net/profile?id=~Felix_B%C3%B6ck1)
+* [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.010165333554.88)
 
 
 
