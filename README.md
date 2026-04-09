@@ -16,6 +16,7 @@ Repository with all research-relevant attachments from scientific publications f
   > * [Zotero](https://www.zotero.org/fboeck)
   > * [ResearchGate](https://www.researchgate.net/profile/Felix-Boeck)
   > * [SciProfiles](https://sciprofiles.com/profile/boeck)
+  > * [Loop](https://loop.frontiersin.org/people/3465842/)
 
   **Otto Friedrich University of Bamberg**
   > * [Research Information System: FIS University of Bamberg](https://fis.uni-bamberg.de/handle/uniba/109476)
