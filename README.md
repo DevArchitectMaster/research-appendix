@@ -14,6 +14,7 @@ Repository with all research-relevant attachments from scientific publications f
 > You can find an overview of all scientific puplications here:
   > * [ORC**ID**](https://orcid.org/0000-0001-7382-8333)
   > * [Zotero](https://www.zotero.org/fboeck)
+  > * [IEEE Collabratec](https://ieee-collabratec.ieee.org/app/p/fboeck)
   > * [ResearchGate](https://www.researchgate.net/profile/Felix-Boeck)
   > * [SciProfiles](https://sciprofiles.com/profile/boeck)
   > * [Loop](https://loop.frontiersin.org/people/3465842/)
