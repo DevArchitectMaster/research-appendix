@@ -21,7 +21,7 @@
 
 ### 2026
 > * \[`Conference`\] [CSEDU 2026](https://doi.org/10.5220/0014738000004021) - [Towards a Personalised Digital Learning Environment of Tomorrow](#)
-> * \[`Journal`\] [International Journal On Advances in Intelligent Systems](#) - [Learner Models: The Gap between Educational Opportunities vs. Data Protection Challenges](#)
+> * \[`Journal`\] [International Journal On Advances in Intelligent Systems](https://www.iariajournals.org/intelligent_systems/tocv19n12.html) - [Learner Models: The Gap between Educational Opportunities vs. Data Protection Challenges](#)
 
 
 
